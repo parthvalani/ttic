@@ -1,31 +1,27 @@
 Metadata-Version: 2.1
 Name: ttic
-Version: 1.0.0
-Summary: convert tabular data to image form
-Home-page: https://github.com/parthvalani/con2img
+Version: 1.0.1
+Summary: Convert tabular data to image for DCNN
+Home-page: https://github.com/parthvalani/ttic
 Author: Parth Valani
 Author-email: parthnvalani@gmail.com
 License: MIT
-Description: ## Con2img
+Description: ## ttic
         It takes tabular data and convert it to the RGB images.
         
         ## Installation
-        ```pip install con2img```
+        ```pip install ttic```
         
         ## How to use it?
         
-        Import the package
-        Then,
-        ```x_train, x_test = con2img(train_x,,train_y,test_y)```
-        where train_x = training inputs,
-              test_x = testing inputs,
-              train_y = one-hot encoding form of training labels.
+        ```x_train, x_test = ttic(train_x,,train_y,test_y)```
         
         ## License
         
         Â© 2021 Parth Valani
         
-        This repository is licensed under the MIT license. See LICENSE for details.
+        This repository is licensed under the MIT license. See LICENSE for details."# ttic" 
+        
 Platform: UNKNOWN
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3.6

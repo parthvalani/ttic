@@ -10,11 +10,11 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="ttic",
-    version="1.0.0",
-    description="convert tabular data to image form",
+    version="1.0.1",
+    description="Convert tabular data to image for DCNN",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/parthvalani/con2img",
+    url="https://github.com/parthvalani/ttic",
     author="Parth Valani",
     author_email="parthnvalani@gmail.com",
     license="MIT",
