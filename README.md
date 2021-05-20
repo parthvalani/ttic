@@ -12,4 +12,4 @@ It takes tabular data and convert it to the RGB images.
 
 © 2021 Parth Valani
 
-This repository is licensed under the MIT license. See LICENSE for details."# ttic" 
+This repository is licensed under the MIT license. See LICENSE for details.
